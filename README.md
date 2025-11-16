@@ -1,16 +1,12 @@
-# Hi 👋 — I'm Adel
-
----
+# Hi, I'm Adel👋
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science student** with a strong interest in **Artificial Intelligence**, **Machine Learning**, and their applications in **medical signal analysis**.
-
-I am passionate about developing intelligent systems that bridge computer science and **neuroscience** to improve mental health diagnostics and contribute to meaningful scientific advancements.
+As a Computer Science student with an intensive background in Artificial Intelligence and Machine Learning, I am actively engaged in the development of intelligent systems for biomedical signal processing. My professional goal is to leverage sophisticated algorithmic and data science techniques to integrate computational models with neuroscience principles. I aim to create tangible solutions that translate into improved diagnostic tools for mental health disorders and drive innovation in translational science.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
 Here are some of the technologies and tools I frequently use:
 
