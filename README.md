@@ -40,7 +40,7 @@ Here are some of the technologies and tools I frequently use:
 <div align="center">
   <a href="https://github.com/adelabbaszare"><img alt="Follow on GitHub" src="https://img.shields.io/github/followers/adelabbaszare?label=Follow&style=social"></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/adelabbaszare"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/adel-abbaszare"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   &nbsp;&nbsp;
   <a href="https://t.me/learnwithadel"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram&style=for-the-badge"></a>
   &nbsp;&nbsp;
