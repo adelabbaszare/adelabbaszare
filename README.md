@@ -26,12 +26,12 @@ Here are some of the technologies and tools I frequently use:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  [![Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adelabbaszare&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/adelabbaszare)
+[![Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adelabbaszare&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/adelabbaszare)
   &nbsp;&nbsp;&nbsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelabbaszare&layout=compact&theme=radical&hide_border=true)](https://github.com/adelabbaszare)
-  [![Adel's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=adelabbaszare&theme=radical)](https://github.com/adelabbaszare)
-</div>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelabbaszare&layout=compact&theme=radical&hide_border=true)](https://github.com/adelabbaszare)
+
+[![Adel's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=adelabbaszare&theme=radical)](https://github.com/adelabbaszare)
 
 ---
 
