@@ -2,11 +2,11 @@
 
 ## 👨‍💻 About Me
 
-As a Computer Science student with an intensive background in Artificial Intelligence and Machine Learning, I am actively engaged in the development of intelligent systems for biomedical signal processing. My professional goal is to leverage sophisticated algorithmic and data science techniques to integrate computational models with neuroscience principles. I aim to create tangible solutions that translate into improved diagnostic tools for mental health disorders and drive innovation in translational science.
+As a Computer Science student with a strong background in Artificial Intelligence and Machine Learning, I am involved in developing smart systems for biomedical signal processing. My professional goal is to use advanced algorithms and data science methods to combine computational models with neuroscience concepts. I want to create practical solutions that lead to better diagnostic tools for mental health disorders and promote innovation in translational science.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 
 Here are some of the technologies and tools I frequently use:
 
