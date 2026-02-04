@@ -27,7 +27,7 @@ Here are some of the technologies and tools I frequently use:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelabbaszare&layout=compact&theme=radical&hide_border=true)](https://github.com/adelabbaszare)
 
-<!--[![Adel's Activity Graph](https://activity-graph.vercel.app/graph?username=adelabbaszare&theme=radical)](https://github.com/adelabbaszare)-->
+[![Adel's Activity Graph](https://activity-graph.vercel.app/graph?username=adelabbaszare&theme=radical)](https://github.com/adelabbaszare)
 
 ---
 
