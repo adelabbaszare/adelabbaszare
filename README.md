@@ -1,6 +1,6 @@
 # Hi, I'm Adel 👋
 
-### Computer Engineering Student · AI/ML Developer · Software Engineer
+### Computer Engineering Student · AI/ML Developer ·
 
 I'm a Computer Engineering student passionate about **Artificial Intelligence, Machine Learning, Data Science, Biomedical Signal Processing, and Software Engineering**.
 
