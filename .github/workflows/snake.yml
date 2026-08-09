@@ -12,10 +12,12 @@ on:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
-    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
       - name: Generate Snake
@@ -26,10 +28,14 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Publish Snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           build_dir: dist
           target_branch: output
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
