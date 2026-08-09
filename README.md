@@ -84,20 +84,6 @@ I also enjoy building modern, scalable web applications and combining **AI with 
 
 ---
 
-# 🧠 Research Interests
-
-* 🧠 Signal Processing
-* 🤖 Machine Learning for Healthcare
-* 🧬 Biomedical Signal Processing
-* 📈 Brain Connectivity Analysis
-* 🧠 Functional Brain Networks
-* 🔬 Computational Neuroscience
-* 📊 Statistical Data Analysis
-* 🧩 Deep Learning
-* 🌐 AI-powered Healthcare Systems
-
----
-
 # 🐍 GitHub Contribution Snake
 
 <p align="center">
@@ -116,19 +102,6 @@ I also enjoy building modern, scalable web applications and combining **AI with 
     />
   </picture>
 </p>
-
----
-
-# 🚀 Current Focus
-
-* 🧠 Artificial Intelligence & Machine Learning
-* 🧬 Biomedical Signal Processing
-* 🧠 Brain Connectivity & Functional Networks
-* 🌐 Full-Stack Web Development
-* ⚛️ React & TypeScript Applications
-* ▲ Next.js Applications
-* 🐍 Python-based Data Science
-* 🔬 AI-powered Healthcare Research
 
 ---
 
